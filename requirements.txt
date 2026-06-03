@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+labelme
+Pillow
+roifile==2024.9.15
