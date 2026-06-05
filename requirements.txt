@@ -1,8 +1,9 @@
-ultralytics
+ultralytics>=8.4.52
 opencv-python
 numpy
 torch
 torchvision
 labelme
 Pillow
+PyYAML
 roifile==2024.9.15

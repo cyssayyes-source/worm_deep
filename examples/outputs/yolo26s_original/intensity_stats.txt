@@ -1,0 +1,20 @@
+Image: 微信图片_20260527191129_4233_56.jpg
+Status: detected
+Detected worms: 11
+Detection image: original
+Brightness factor: 1.50
+Intensity source: original
+Filtered overlapping detections: 9
+Overlap threshold: 0.85
+Background median: 1.00
+Worm 1: raw_mean=10.37, corrected_mean=9.37, confidence=0.7725
+Worm 2: raw_mean=10.71, corrected_mean=9.71, confidence=0.7394
+Worm 3: raw_mean=8.35, corrected_mean=7.35, confidence=0.7331
+Worm 4: raw_mean=10.71, corrected_mean=9.71, confidence=0.5582
+Worm 5: raw_mean=12.92, corrected_mean=11.92, confidence=0.4106
+Worm 6: raw_mean=9.64, corrected_mean=8.64, confidence=0.3928
+Worm 7: raw_mean=10.24, corrected_mean=9.24, confidence=0.3518
+Worm 8: raw_mean=8.23, corrected_mean=7.23, confidence=0.1994
+Worm 9: raw_mean=9.55, corrected_mean=8.55, confidence=0.1878
+Worm 10: raw_mean=9.56, corrected_mean=8.56, confidence=0.1212
+Worm 11: raw_mean=9.02, corrected_mean=8.02, confidence=0.1005

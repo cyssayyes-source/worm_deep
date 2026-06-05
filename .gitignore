@@ -23,12 +23,14 @@ Thumbs.db
 RoiSet/
 label/
 hard_mining/
-output_root/
+output_root*/
 runs/
 waiting_images/
 worm_yolo_results/
 *.pt
 !models/worm_yolo_best.pt
+!models/worm_yolo26s_best.pt
+models/pretrained/
 *.onnx
 *.engine
 *.weights
